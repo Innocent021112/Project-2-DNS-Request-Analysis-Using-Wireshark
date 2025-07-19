@@ -86,13 +86,6 @@ This project highlights the need for **secure DNS solutions**, such as:
 
 ---
 
-## ✅ What’s Next
-
-👉 [Project 3 – Detecting Malware Communication (PCAP Analysis)](#)  
-We'll use a sample `.pcap` from a malware-infected machine and break down suspicious behavior like beaconing and command-and-control connections.
-
----
-
 ## 🙋 About Me
 
 This is part of my cybersecurity learning journey using **Wireshark**. Each project in this repo demonstrates a real-world skill, hands-on analysis, and clear documentation — all geared toward building a strong portfolio.
